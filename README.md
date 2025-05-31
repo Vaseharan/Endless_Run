@@ -3,6 +3,16 @@
 An epic endless runner game where a brave king sprints through an ancient fort, collecting apples and coins while dodging deadly traps to stay alive!
 
 ---
+## 🌐 Play The Game
+
+👉 [Play on Unity Play](https://play.unity.com/mg/other/king-endless-runner-3z7)  
+> No install required. Just hit play and run for your life! 🏃‍♂️👑)
+👉 [Game Play ](https://youtu.be/nSoU05PDzgk)  
+
+
+
+---
+
 
 ## 🎮 Gameplay Overview
 
@@ -35,12 +45,7 @@ The game gradually increases in difficulty, keeping you on your toes!
 
 ---
 
-## 🌐 Play The Game
 
-👉 [Play on Unity Play](https://youtu.be/nSoU05PDzgk)  
-
-
----
 
 ## 📂 How to Run Locally
 
