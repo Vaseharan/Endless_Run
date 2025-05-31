@@ -5,7 +5,7 @@ An epic endless runner game where a brave king sprints through an ancient fort, 
 ---
 ## 🌐 Play The Game
 
-👉 [Play on Unity Play](https://play.unity.com/mg/other/king-endless-runner-3z7)  
+👉 [Play on Unity Play](https://play.unity.com/en/games/3258a30f-3da3-40d7-b336-70377f33a993/royal-runner)  
 > No install required. Just hit play and run for your life! 🏃‍♂️👑)
 👉 [Game Play ](https://youtu.be/nSoU05PDzgk)  
 
